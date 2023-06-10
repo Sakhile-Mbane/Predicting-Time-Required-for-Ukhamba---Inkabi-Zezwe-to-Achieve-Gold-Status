@@ -1,6 +1,6 @@
 # Predicting Time Required for Ukhamba - Inkabi Zezwe to Achieve Gold Status
 
-This project aims to develop a machine learning model to predict the time it would take for the song of the artist Ukhamba - Inkabi Zezwe to achieve gold status based on the certification standards set by the Recording Industry of South Africa (RISA).
+This project aims to develop a machine learning model to predict the time it would take for the album of the artist Ukhamba - Inkabi Zezwe to achieve gold status based on the certification standards set by the Recording Industry of South Africa (RISA).
 
 ## Objective
 The objective of this project is to provide insights into the time required for Ukhamba - Inkabi Zezwe to achieve gold status by leveraging historical data, including release dates, streaming counts, and certification statuses.
