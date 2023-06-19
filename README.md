@@ -48,7 +48,7 @@ The following dependencies are required to run the code:
 - scikit-learn
 
 ## License
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [Warner Music Africa](LICENSE).
 
 Feel free to contribute, suggest improvements, or report issues.
 
